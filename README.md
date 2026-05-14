@@ -31,7 +31,7 @@ Usuario → FastAPI → LangGraph Agent → RAG Search (Weaviate) → LLM (Groq/
 
 ```bash
 # 1. Cloná el repositorio
-git clone https://github.com/tu-usuario/gcp-rag-agent
+git clone https://github.com/gcastanoferraro/gcp-rag-agent
 cd gcp-rag-agent
 
 # 2. Instalá dependencias
